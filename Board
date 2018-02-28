@@ -1,7 +1,7 @@
 public class Board
 {
 
-    private int[][] board;
+    private int[8][8] board;
     public Board()
     {
         
